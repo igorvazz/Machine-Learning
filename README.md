@@ -8,8 +8,8 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 <a>
     <div style="margin: 20px;">
-        <p align="left">
-            <img width="40%" align="middle" src="./images/classification.png"/>
+        <p align="middle">
+            <img width="40%" src="./images/classification.png"/>
             <h5 style="color:black;" align="middle">Figure 1 - Most commom Classifcation Algorithms</h5>
         </p>
     </div>
@@ -17,7 +17,7 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 <a>
     <div style="margin: 20px;">
-        <p align="left">
+        <p align="middle">
             <img width="40%" align="middle" src="./images/regression.png"/>
             <h5 style="color:black;" align="middle">Figure 2 - Most commom Regression Algorithms</h5>
         </p>
@@ -26,7 +26,7 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 <a>
     <div style="margin: 20px;">
-        <p align="left">
+        <p align="middle">
             <img width="40%" align="middle" src="./images/clustering.png"/>
             <h5 style="color:black;" align="middle">Figure 3 - Most commom Clustering Algorithms</h5>
         </p>
