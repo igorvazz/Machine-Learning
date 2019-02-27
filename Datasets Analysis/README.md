@@ -35,7 +35,8 @@ Their score comparison can be seen on Fig 1:
 With a Score of 0.860656, the best model found here was the XGBoost using 45 estimators with a max depth of 4.
 **All the code and complete analysis can be seen on the Jupyter notebook in the dataset's folder.**
 
-<hr>
+<hr></hr>
+
 ## California House Pricing
 
 <a>
