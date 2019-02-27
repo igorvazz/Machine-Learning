@@ -7,7 +7,7 @@ Here are the datasets analyzed so far along with their main results:
 <a>
     <div style="margin: 20px;">
         <p align="middle">
-            <img width="90%" src="./images/loan prediction.png"/>
+            <img width="100%" src="./images/loan prediction.png"/>
         </p>
     </div>
 </a>
@@ -35,13 +35,13 @@ Their score comparison can be seen on Fig 1:
 With a Score of 0.860656, the best model found here was the XGBoost using 45 estimators with a max depth of 4.
 **All the code and complete analysis can be seen on the Jupyter notebook in the dataset's folder.**
 
-
+<hr>
 ## California House Pricing
 
 <a>
     <div style="margin: 20px;">
         <p align="middle">
-            <img width="90%" src="./images/california.png"/>
+            <img width="100%" src="./images/california.png"/>
         </p>
     </div>
 </a>
