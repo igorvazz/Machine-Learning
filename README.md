@@ -4,11 +4,11 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 
 <div class="row">
-  <div class="column">
+  <div style=width: 33.33%;>
     <img src="./images/classification.png" alt="Classifcation" style="width:40%">
     <h5 style="color:black;" align="left">Figure 1 - Most commom Classifcation Algorithms</h5>
   </div>
-  <div class="column">
+  <div style=width: 33.33%;>
     <img src="./images/regression.png" alt="Regression" style="width:40%">
     <h5 style="color:black;" align="right">Figure 2 - Most commom Regression Algorithms</h5>
   </div>
