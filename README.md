@@ -4,8 +4,8 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 
 <div class="row">
-  <div style=width: 33.33%;>
-    <img src="./images/classification.png" alt="Classifcation" style="width:40%">
+  <div style=width:33.33%;>
+    <img src="./images/classification.png" alt="Classifcation" style="width:40% float: right;">
     <h5 style="color:black;" align="left">Figure 1 - Most commom Classifcation Algorithms</h5>
   </div>
   <div style=width: 33.33%;>
@@ -13,6 +13,8 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
     <h5 style="color:black;" align="right">Figure 2 - Most commom Regression Algorithms</h5>
   </div>
 </div>
+
+
 
 
 
