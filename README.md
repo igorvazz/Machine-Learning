@@ -4,7 +4,7 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 <a>
     <div style="margin: 20px;">
-        <p align="middle">
+        <p align="left">
             <img width="40%" src="./images/classification.png"/>
             <h5 style="color:black;" align="middle">Figure 1 - Most commom Classifcation Algorithms</h5>
         </p>
@@ -13,7 +13,7 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 <a>
     <div style="margin: 20px;">
-        <p align="middle">
+        <p align="right">
             <img width="40%" align="middle" src="./images/regression.png"/>
             <h5 style="color:black;" align="middle">Figure 2 - Most commom Regression Algorithms</h5>
         </p>
