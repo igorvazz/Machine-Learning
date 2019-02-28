@@ -4,16 +4,11 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 
 
-
-<img style="width:40% float: left;" src="./images/classification.png" alt="Classifcation"/>
+<img style="float: left;" src="./images/classification.png" alt="Classifcation"/>
 <h5 style="color:black;" align="left">Figure 1 - Most commom Classifcation Algorithms</h5>
 
-<img style="width:40% float: right;" src="./images/regression.png" alt="Regression"/>
+<img style="float: right;" src="./images/regression.png" alt="Regression"/>
 <h5 style="color:black;" align="right">Figure 2 - Most commom Regression Algorithms</h5>
-
-
-<img class =“left” src=“image.jpg”/>
-
 
 
 
