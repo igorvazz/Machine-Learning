@@ -8,8 +8,8 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 
 <p float="left">
-  <img src="./images/classification.png" width="50%" />
-  <img src="./images/regression.png" width="50%" />
+  <img src="./images/classification.png" width="49%" />
+  <img src="./images/regression.png" width="49%" />
 </p>
 
 
