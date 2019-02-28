@@ -7,7 +7,9 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
             <p>
             <img width="40%" align="left" src="./images/classification.png"/>
                 <h5 style="color:black;" align="left">Figure 1 - Most commom Classifcation Algorithms</h5>
+            </p>
 
+            <p>
             <img width="40%" align="right" src="./images/regression.png"/>
                 <h5 style="color:black;" align="right">Figure 2 - Most commom Regression Algorithms</h5>
             </p>
