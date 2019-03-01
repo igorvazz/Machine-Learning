@@ -18,3 +18,13 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 * Decision Tree
 * Random Forest
 * SVR
+
+**Performance Metrics**:
+
+* R2 score
+* Confusion Matrix
+* ROC Curve
+* Precision vs Recall
+* F1 Score
+
+and techniques such as K-Fold Cross Validation and Stratified K-Fold Cross Validation
