@@ -4,14 +4,6 @@ Here are the datasets analyzed so far along with their main results:
 
 ## Loan Prediction
 
-<a>
-    <div style="margin: 20px;">
-        <p align="middle">
-            <img width="100%" src="./images/loan prediction.png"/>
-        </p>
-    </div>
-</a>
-
 The goal on this dataset was to use classification algorithms to predict if an applicant would get his loan approved or not based on 12 features. The algorithms used in the score benchmarking were:
 
 * Logistic Regression
@@ -38,14 +30,6 @@ With a Score of 0.860656, the best model found here was the XGBoost using 45 est
 <hr></hr>
 
 ## California House Pricing
-
-<a>
-    <div style="margin: 20px;">
-        <p align="middle">
-            <img width="100%" src="./images/california.png"/>
-        </p>
-    </div>
-</a>
 
 This dataset contains data from a 1990 census date in a California district, and the goal is to use regression algorithms to predict the price of a house based on 9 features. The algorithms used in the score benchmarking were:
 
