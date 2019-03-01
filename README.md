@@ -1,6 +1,20 @@
 # Machine-Learning
 
-Here I share some Datasets analysis where I applied different algorithms, tools and concepts such as seen on Figs 1, 2 and 3:
+Here I share some Datasets analysis where I applied different algorithms, tools and concepts such as:
 
+**Classification**:
 
-<img src="./images/algorithms.png" width="100%" />
+* Logistic Regression
+* SVM
+* KNN
+* Decision Tree
+* Random Forest
+* XGBoost
+
+**Regression**:
+
+* Linear Regression
+* Polynomial Regression
+* Decision Tree
+* Random Forest
+* SVR
