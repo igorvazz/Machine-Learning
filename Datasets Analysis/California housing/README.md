@@ -8,13 +8,13 @@ This dataset contains data from a 1990 census date in a California district, and
 * Random Forest
 * SVR
 
-Their score comparison can be seen on Fig 2:
+Their score comparison can be seen on Fig 1:
 
 <a>
     <div style="margin: 20px;">
         <p align="middle">
             <img width="70%" src="./images/california_r2_scores.png"/>
-            <h5 style="color:black;" align="middle">Figure 2 - Score comparison from the regression algorithms</h5>
+            <h5 style="color:black;" align="middle">Figure 1 - Score comparison from the regression algorithms</h5>
         </p>
     </div>
 </a>
