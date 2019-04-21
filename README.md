@@ -4,6 +4,7 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 **Classification**:
 
+* Neural Networks
 * Logistic Regression
 * SVM
 * KNN
@@ -13,6 +14,7 @@ Here I share some Datasets analysis where I applied different algorithms, tools 
 
 **Regression**:
 
+* Neural Networks
 * Linear Regression
 * Polynomial Regression
 * Decision Tree

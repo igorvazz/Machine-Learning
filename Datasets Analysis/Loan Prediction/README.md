@@ -2,6 +2,7 @@
 
 The goal on this dataset was to use classification algorithms to predict if an applicant would get his loan approved or not based on 12 features. The algorithms used in the score benchmarking were:
 
+* Neural Network
 * Logistic Regression
 * SVM
 * KNN
