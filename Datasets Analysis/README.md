@@ -1,7 +1,7 @@
 # Datasets Analyzed
 
 Here are the datasets analyzed so far along with their main results:
-</hr></hr>
+
 ## Loan Prediction
 
 The goal on this dataset was to use classification algorithms to predict if an applicant would get his loan approved or not based on 12 features.
