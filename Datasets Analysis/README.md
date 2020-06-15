@@ -2,11 +2,13 @@
 
 Here are the datasets analyzed so far along with their main results:
 
+# Regression
 
 ## California House Pricing
 
 This dataset contains data from a 1990 census date in a California district, and the goal is to use regression algorithms to predict the price of a house based on 9 features
 
+# Classification
 
 ## Loan Prediction
 
